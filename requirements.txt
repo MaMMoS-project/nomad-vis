@@ -6,3 +6,4 @@ pathlib
 xarray
 tqdm
 plotly
+matplotlib-scalebar
