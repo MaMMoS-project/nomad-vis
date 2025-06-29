@@ -8,3 +8,4 @@ tqdm
 plotly
 matplotlib-scalebar
 mammos-entity==0.7.0
+scipy
